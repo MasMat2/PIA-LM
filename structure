@@ -1,0 +1,2 @@
+carreras -> semestres -> materias[clave] -> grupos
+grupo[horario,profesor, numero]
